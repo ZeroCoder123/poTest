@@ -32,7 +32,7 @@ class Test_search:
     # @pytest.mark.run(order=2)
     # @pytest.mark.parametrize("search_001",indirect=True)
     # @allure.issue('http://www.163.com')
-    @allure.testcase('https://www.baidu.com/ll')
+    @allure.testcase('https://www.baidu.com')
     @allure.severity(allure.severity_level.BLOCKER)
     @allure.step(title='这是搜索框测试')
     @pytest.mark.parametrize("num,text",yaml_data())
