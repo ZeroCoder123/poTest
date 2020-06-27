@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="158aefdb-be45-4cf7-b580-b146ebc7f1c2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/test_po_001.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/test_po_001.py" afterDir="false" />
-    </list>
+    <list default="true" id="158aefdb-be45-4cf7-b580-b146ebc7f1c2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/scripts/test_po_001.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+            <state relative-caret-position="373">
+              <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -68,8 +65,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="833" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="57" />
+    <option name="y" value="-8" />
     <option name="width" value="818" />
     <option name="height" value="1057" />
   </component>
@@ -171,7 +169,7 @@
       <workItem from="1592590108987" duration="11187000" />
       <workItem from="1593096719359" duration="85000" />
       <workItem from="1593096826991" duration="1834000" />
-      <workItem from="1593098721426" duration="19827000" />
+      <workItem from="1593098721426" duration="20305000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1593195197866</created>
@@ -334,11 +332,25 @@
       <option name="project" value="LOCAL" />
       <updated>1593266108495</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ggg">
+      <created>1593275310356</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1593275310356</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ggg">
+      <created>1593275753322</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593275753322</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32933000" />
+    <option name="totallyTimeSpent" value="33411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="833" y="0" width="818" height="1057" extended-state="0" />
@@ -487,8 +499,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/test_po_001.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        <state relative-caret-position="373">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
