@@ -41,7 +41,7 @@ class Test_search:
         self.search_obj.search_input(text)
         self.driver.get_screenshot_as_file("./Screen/set_%s.png" % text)
         allure.attach( '我是测试步骤001的描述～～～','描述',)
-        # assert "使用二十四小时" in self.driver.page_source,'出错了'
+        assert "使用二十四小时" in self.driver.page_source,'出错了'
         # print(type(self.driver.page_source))
 
     # @pytest.mark.usefixtures("search_002")
