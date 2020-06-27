@@ -26,7 +26,7 @@ class Base:
             self.find_element(loc)
             return True
         except Exception as e:
-            return False
+            return None
 
     def click_element(self,loc):
         self.find_element(loc).click()
