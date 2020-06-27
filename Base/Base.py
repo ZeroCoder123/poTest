@@ -21,6 +21,13 @@ class Base:
         # return self.driver.find_element(by=loc,value=loc_value)
         return WebDriverWait(self.driver,timeout,poll).until(lambda x: x.find_element(*loc))
 
+    def is_display(self,loc):
+        try:
+            self.find_element(loc)
+            return True
+        except Exception as e:
+            return False
+
     def click_element(self,loc):
         self.find_element(loc).click()
 
